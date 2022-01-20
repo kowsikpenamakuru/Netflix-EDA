@@ -1,5 +1,5 @@
 # EDA on Netflix dataset
-dataset url: https://www.kaggle.com/shivamb/netflix-shows
+Dataset url: https://www.kaggle.com/shivamb/netflix-shows
 
 This repo contains a brief implementation of Exploratory Data Analysis on the Netflix dataset.
 
